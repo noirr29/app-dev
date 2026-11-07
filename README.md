@@ -1,5 +1,5 @@
 # Joemarie Castorico
-**Subject: App Dev**
+**App Dev**
 ---
 
 ## About Me
