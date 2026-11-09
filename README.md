@@ -14,9 +14,12 @@ Hello! I am a BSIT student who is passionate about technology and web developmen
 | Year Level | 3rd Year |
 | Section | BSIT 3-106 |
 
-## Education
-- **BS Information Technology** - STI Ortigas Cainta (2024 - Present)
-- **Senior High School** - ACLC College of Taytay (2023 - 2025)
+## Favorite Manga/Manhwa 
+- Omniscient reader's viewpoint
+- Aoi Ashito
+- Solo Leveling
+- The Heavenly Demon can't live a normal life
+- The greatest developer estate
 
 ## Hobbies
 - Gaming
